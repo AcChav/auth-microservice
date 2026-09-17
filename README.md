@@ -280,8 +280,3 @@ The service incorporates several security measures:
 * `helmet` provides additional HTTP security headers.
 * Sensitive configuration values are stored through environment variables.
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
